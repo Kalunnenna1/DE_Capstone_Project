@@ -4,7 +4,7 @@ pg_data
 .env
 postgres-db-volume
 __pycache__
-profiles.yml
 logs
+key.json
 
 
