@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "alt-school-capstone-project-1",
+  "private_key_id": "7ef59df52663a8a8f3d00a85b0ceee17bd63dd0b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDuWwJw8EP7L6F\nlzCmlr90otIDxE1q0jxcoJGm3x153GPopZ2VTjKPuVCoWGDB+x32EBI28CdBSI79\nvwKaFTu93yAxsV8h/suXHrbHy6YRAfMIOPWnC8coqyLwOQF8/U5S8VaZtWGJ2R6n\nWLKa5jMeVK6hdoTnrRHRK0mIx93KPHclrlsccMB8vEg9ffEiwbU5RqQ/VHeIiqhQ\nKM1Pm9QxLYV1LN4DIRI0SKYsVnESo7+j+Jz+8Drw27kcnI+6mEOnVJSWmAi1xxFt\nFxLZCmwAfGxIrNaaYRfx5z6ThwuksvKURI6dx8IeYCD6kPpG1g4unY4kAcJApNHl\n33AGYR9JAgMBAAECggEABbM7foOCA3L3YuaFK/QPEnhG3TjrfhPH3sG6MQD/Kuqi\n46Zl7IoY7MWIOayACuSdM4Q1zf3lNfoSC5+zVXLBwrUCF/hmTYdN/UvcPzB2GNMB\njzWx3JugjfwBjTuRYi2LyULoLQG5KL2j4Y2yslJHq4rQ618xt5nIGRs/FCaP/GEE\nqbQauF49WBrGk1jXgA9MGcqGLJWQTMM4qmybbyUgm3BGhIpJq8noWgCwEanoXh0r\nNYfc4nQs/gqSfh5xcJYdKhvjOEzyxv6Jgx7wf/QkMqoSy37k7g6zZ6HRSQ3SNInJ\nSe5CPx+GKAuUlKas1zKL/iuJ6f5GCCjLykCl3WpfpQKBgQDveqR7LOPSRLCLOOSd\nheO33w8vdTUBMCOixwE9AbC4bHKFGChpkWajNDU+7/ekIPKivepbdJ//Ysp6VlS+\nd0FxCXAi1+DtkZW4p15Ox2iE6iU3X7h8HHldLdff15pAXHMorgceEtnZRVGLPkLE\n9c9mzjfCJ76Z8/fXxcnC7JKdnQKBgQDROgqn/RpHHlnvxK3C1+qi5+yhwRWc48G4\nfodXk0zi3QDAvsSRrGsEzfKSrdnWSHksJhyGZgEJz9xr+DRH4VwFHnICuvUP15yI\nabRIhrE4PVQKQVoSRXX0keFjpZy556jJJxchJ+NE9pK+IVJmnI+T7sS055oTFUH4\nowALxaFunQKBgQCX+WakXIp/h+PZllNOvAcVStMiNOlcRaZ3yH66rnXts7TBTeFn\njURrUdhwhmzLlbUlHgy52TsoIROJq3vAG4JGL80f74vod7liI6SvrdBgeQ8BIxe6\ne39xaIRUo0hai9DxAe+2YBQr09e529sXjz79aOTtq7dDkBW6suQldWhd6QKBgHsO\n2kmn0hbWQSuG0HRzLiwWoNUaja2zP7NVqCDYIDamqdSz30WW1XMD9pJS8nbYNXzE\nBa7+u8mbmhde6tEEOW1BVOlKMOzacdTB5ylpHz7mw1Es0t9AP3pTeu9y7tVg7aMx\n/KahoUhkhjaRvrdfigsGOmf0eGiU7jJhHJvP53z5AoGBANylGGtnt0gj2he6q33W\nUzdJ6/7dA/7iBHYJjk/oOHHw8TxZw5IgXoKlENCook75NwirljBK+uoVqdqtm1C3\n5jZvpIg1y8hRYw5ILcZ3aUfGlNbm+sJiwMgMZHKPlTdc1OmmEqImvOH5yPObXbkc\nY6QF/3lotcDgF5Jksg5vkR8a\n-----END PRIVATE KEY-----\n",
+  "client_email": "alt-05@alt-school-capstone-project-1.iam.gserviceaccount.com",
+  "client_id": "118050074139333722148",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/alt-05%40alt-school-capstone-project-1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
