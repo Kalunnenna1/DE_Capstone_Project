@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: alt_capstone_user
+      POSTGRES_PASSWORD: altSchool
+      POSTGRES_DB: ecommerce
+    ports:
+      - "5433:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - ./data:/data
+      - ./infra_setup/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+volumes:
+  pg_data:
