@@ -6,5 +6,9 @@ postgres-db-volume
 __pycache__
 logs
 key.json
+profiles.yml
+
+
+
 
 
