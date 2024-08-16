@@ -1,7 +1,7 @@
 # DE_Capstone_Project
 
 
-### The objective of the project is to build an ELT (Extract, Load and Transform) pipeline that will move data from a source system to a target system, which is BigQuery. Once the data is in the target system, you will have to model and transform it using dbt for analytics purpose ### 
+## The objective of the project is to build an ELT (Extract, Load and Transform) pipeline that will move data from a source system to a target system, which is BigQuery. Once the data is in the target system, you will have to model and transform it using dbt for analytics purpose ##
 
 ##### Tools used for the project ######
 PostgresSQL
@@ -38,3 +38,6 @@ Bigquery
 - dbt init alt_cap
 - proiles.yml configured/created
 - Models were created: transitional, mart, staging
+
+#### Summary ####
+The Braziliam E-Commerce dataset was successfully ingested into PostgreSQL, orchestrated an ETL process with Airflow, loading the data into BigQuery, and transformed using dbt to answer key analytical question.
